@@ -2,7 +2,7 @@
 The Wavetable project experiments implementation of modern wavetable synth techniques. The Daisy Patch Submodule is used as a target hardware for the implementation.
 This is a final Project for the course MUMT 307 Music and Audio Computing 2 at McGill University.
 
-Please refer to the [Wiki](https://github.com/SimonNM/MUMT307-Wavetable) for the project report (scope, research, results, etc.).
+Please refer to the [Wiki](https://github.com/SimonNM/MUMT307-Wavetable/wiki/Wavetable-Synth-Implementation) for the project report (scope, research, results, etc.).
 
 ## Matlab scritps
 
