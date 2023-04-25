@@ -5,6 +5,7 @@ This is a final Project for the course MUMT 307 Music and Audio Computing 2 at M
 Please refer to the [Wiki](https://github.com/SimonNM/MUMT307-Wavetable/wiki/Wavetable-Synth-Implementation) for the project report (scope, research, results, etc.).
 
 ## Matlab scritps
+Available in the `matlab scrip` folder, these include scripts testing the wavetable's frequency responses to different techniques.
 
 ## Getting the Source
 
